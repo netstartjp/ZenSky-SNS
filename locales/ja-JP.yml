@@ -2736,7 +2736,7 @@ _dataSaver:
 _hemisphere:
   N: "北半球"
   S: "南半球"
-  caption: "一部のクライアント設定で、季節を判定するために使用します。"
+  caption: "季節を判定するために使用します。"
 
 _reversi:
   reversi: "リバーシ"
@@ -2784,8 +2784,8 @@ _reversi:
   useAvatarAsStone: "石をアイコンにする"
 
 _offlineScreen:
-  title: "オフライン - サーバーに接続できません"
-  header: "サーバーに接続できません"
+  title: "オフライン状態です。基幹サーバーに接続できません。"
+  header: "サーバーに接続できません。"
 
 _urlPreviewSetting:
   title: "URLプレビューの設定"

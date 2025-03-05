@@ -1,3 +1,12 @@
+## v25.03
+
+### General
+- 投稿ボタン等の名称を「ノート」から「ドロップ」に変更
+
+# 以上,ZenSkyのChangeLog
+
+# 以下,Misskey本家のChangeLog
+
 ## 2025.3.0
 
 ### General
